@@ -1,0 +1,8 @@
+bob
+carol
+ted
+alice
+12
+12.3
+susan
+susan
